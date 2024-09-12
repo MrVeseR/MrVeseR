@@ -1,5 +1,13 @@
 ## Hi there 👋
-
+<div id="badges">
+  <a href = "https://vk.com/id564206083">
+    <img src = "https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt = "VK badge">
+  </a>
+  <a href = "mailto:vivalkuzya1107@gmail.com">
+    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail badge">
+  </a>
+  
+</div>
 <!--
 **MrVeseR/MrVeseR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
